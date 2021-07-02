@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @vipinnair73
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-vipinnair73/vipinnair73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="www.example.com">vipin</a>
+<a href="www.example.com">btm</a>
+<a href="www.example.com">madiwala</a>
+<a href="www.example.com">bangalore</a>
+<a href="www.example.com">kochi</a>
+<a href="www.example.com">mumbai</a>
+<a href="www.example.com">bangalore</a>
